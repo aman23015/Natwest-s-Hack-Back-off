@@ -1,0 +1,13 @@
+streamlit
+torch
+torchaudio
+opencv-python
+deepface
+speechbrain
+sentence-transformers
+ffmpeg-python
+omegaconf
+tf-keras
+
+# Note: FFmpeg must be installed separately. 
+# Instructions: conda install -c conda-forge ffmpeg
